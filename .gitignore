@@ -1,0 +1,16 @@
+﻿#IDE
+.idea
+
+#Folders
+bin
+obj
+
+#Environment
+.env
+
+#Http
+HttpRequest.http
+
+#Docker
+Dockerfile
+.dockerignore
